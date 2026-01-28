@@ -1,0 +1,571 @@
+#EXTM3U
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Матч!" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/match.png",Матч ТВ
+http://cdn.vivamax.pro/Match/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч!" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/match.png",Матч ТВ [Orig]
+http://cdn.vivamax.pro/MatchTVOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Премьер" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchpremiere.png",Матч! Премьер
+http://cdn.vivamax.pro/MatchPremiere/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Премьер" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchpremiere.png",Матч! Премьер [Orig]
+http://cdn.vivamax.pro/MatchPremiereOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 1" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball1.png",Матч! Футбол 1
+http://cdn.vivamax.pro/MatchFutbol1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Футбол 1" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball1.png",Матч! Футбол 1 [Orig]
+http://cdn.vivamax.pro/MatchFootball1Orig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball2.png",Матч! Футбол 2
+http://cdn.vivamax.pro/MatchFutbol2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Футбол 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball2.png",Матч! Футбол 2 [Orig]
+http://cdn.vivamax.pro/MatchFutbol2Orig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball3.png",Матч! Футбол 3
+http://cdn.vivamax.pro/MatchFutbol3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Футбол 3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchfootball3.png",Матч! Футбол 3 [Orig]
+http://cdn.vivamax.pro/MatchFootball3Orig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Арена" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matcharena.png",Матч! Арена
+http://cdn.vivamax.pro/MatchArena/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Арена" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matcharena.png",Матч! Арена [Orig]
+http://cdn.vivamax.pro/MatchArenaOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Игра" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchigra.png",Матч! Игра
+http://cdn.vivamax.pro/MatchIgra/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Игра" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchigra.png",Матч! Игра [Orig]
+http://cdn.vivamax.pro/MatchIgraOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Боец" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchboec.png",Матч! Боец
+http://cdn.vivamax.pro/MatchBoec/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Боец" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchboec.png",Матч! Боец [Orig]
+http://cdn.vivamax.pro/MatchBoecOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Страна" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchstrana.png",Матч! Страна
+http://cdn.vivamax.pro/MatchStrana/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Матч! Страна" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/matchstrana.png",Матч! Страна [Orig]
+http://cdn.vivamax.pro/MatchStranaOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasports1.png",Setanta Sports 1
+http://cdn.vivamax.pro/SetantaSports1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports+" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasports2.png",Setanta Sports 2
+http://cdn.vivamax.pro/SetantaSports2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Окко.Футбол" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/okkofootball.png",Okko Спорт. Футбол
+http://cdn.vivamax.pro/okfootball/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Окко Спорт HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/okkosport.png",Okko Спорт
+http://cdn.vivamax.pro/oksport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Окко.Прайм Спорт" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/okkoprime.png",Okko Спорт. Прайм
+http://cdn.vivamax.pro/oksportprime/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/okkochampionat.png",Okko Чемпионат
+http://cdn.vivamax.pro/okkochampionat/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Eurosport 1" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/eurosport1.png",Eurosport 1
+http://cdn.vivamax.pro/Eurosport1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Eurosport 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/eurosport2.png",Eurosport 2
+http://cdn.vivamax.pro/Eurosport2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="viju+ Sport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/vijusport.png",viju+ Sport
+http://cdn.vivamax.pro/VijuSport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="viju+ Sport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/vijusport.png",viju+ Sport [Orig]
+http://cdn.vivamax.pro/VijuSportOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Футбол" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/football.png",Футбол
+http://cdn.vivamax.pro/Football/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Футбол" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/football.png",Футбол [Orig]
+http://cdn.vivamax.pro/FootballOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="КХЛ ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/khl.png",KHL
+http://cdn.vivamax.pro/KHL/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="КХЛ ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/khl.png",KHL [Orig]
+http://cdn.vivamax.pro/KHLOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="КХЛ HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/khlprime.png",KHL Prime
+http://cdn.vivamax.pro/KHLPrime/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="КХЛ HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/khlprime.png",KHL Prime [Orig]
+http://cdn.vivamax.pro/KHLPrimeOrig/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="MMA-TV" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/mma.png",MMA-TV.COM
+http://cdn.vivamax.pro/MMA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Удар" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/udar.png",Удар
+http://cdn.vivamax.pro/udar/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Бокс ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/boxtv.png",Бокс ТВ
+http://cdn.vivamax.pro/BoxTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="FightBox HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fightbox.png",Fightbox
+http://cdn.vivamax.pro/Fightbox/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Extreme sports" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/extremesports.png",Extreme
+http://cdn.vivamax.pro/Extreme/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Fast&FunBox HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fastnfunbox.png",Fast&FunBox
+http://cdn.vivamax.pro/FastnFunBox/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Старт" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/start.png",Старт
+http://cdn.vivamax.pro/Start/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Старт Триумф" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/starttriumf.png",Старт Триумф
+http://cdn.vivamax.pro/StartTriumf/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Старт Баскет" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/startbasket.png",Старт Баскет
+http://cdn.vivamax.pro/StartBasket/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Хоккей ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/hockey.png",Хоккей ТВ
+http://cdn.vivamax.pro/Hockey/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Мир баскетбола" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/mirbasketbola.png",Мир баскетбола
+http://cdn.vivamax.pro/MirBasketbola/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Волейбол" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/voleybol.png",Волейбол
+http://cdn.vivamax.pro/Voleybol/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Мяч" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/myach.png",Мяч
+http://cdn.vivamax.pro/Myach/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="ТВ Спорт" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tvsport.png",ТВ Спорт
+http://cdn.vivamax.pro/TVSport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TRACE Sport Stars" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tracesportstars.png",TRACE Sport Stars
+http://cdn.vivamax.pro/TraceSportStars/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Russian Extreme Ultra HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/ultrarex.png",Russian Extreme
+http://cdn.vivamax.pro/RussianExtreme/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Игра" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/igra.png",Игра
+http://cdn.vivamax.pro/Igra/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Сила" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sila.png",Сила
+http://cdn.vivamax.pro/Sila/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Поединок" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/poedinok.png",Поединок
+http://cdn.vivamax.pro/Poedinok/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спортмастер ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sportmaster.png",Спортмастер
+http://cdn.vivamax.pro/Sportmaster/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Точка отрыва" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tochkaotriva.png",Точка отрыва
+http://cdn.vivamax.pro/TochkaOtriva/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт ТВ [BY]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sporttvby.png",Спорт ТВ [BY]
+http://cdn.vivamax.pro/SportTVBY/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 1 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta1ge.png",Setanta Sports 1 [GE]
+http://cdn.vivamax.pro/setanta1ge/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 2 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta2ge.png",Setanta Sports 2 [GE]
+http://cdn.vivamax.pro/setanta2ge/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 3 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta3ge.png",Setanta Sports 3 [GE]
+http://cdn.vivamax.pro/setanta3ge/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Silk Sport 1 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/silksports1.png",Silk Sport 1 [GE]
+http://cdn.vivamax.pro/Silk1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Silk Sport 2 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/silksports2.png",Silk Sport 2 [GE]
+http://cdn.vivamax.pro/Silk2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Silk Sport 3 (GE)" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/silksports3.png",Silk Sport 3 [GE]
+http://cdn.vivamax.pro/Silk3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fastsports.png",FastSports [AM]
+http://cdn.vivamax.pro/FastSports/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports 1" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fastsports1.png",FastSports 1 [AM]
+http://cdn.vivamax.pro/FastSports1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/fastsports2.png",FastSports 2 [AM]
+http://cdn.vivamax.pro/FastSports2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantaua.png",Setanta Sports [UA]
+http://cdn.vivamax.pro/SetantaSportsUA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta+ Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasportsplusua.png",Setanta Sports + [UA]
+http://cdn.vivamax.pro/SetantaSportsPlusUA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports Premium [UA]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasportspremium.png",Setanta Sports Premium [UA]
+http://cdn.vivamax.pro/SetantaSportsPremiumUA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="4" catchup-type="flussonic" tvg-id="Setanta Sports 1 UZ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta1ge.png",Setanta Sports 1 [UZ]
+http://cdn.vivamax.pro/SetantaSports1UZ/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="4" catchup-type="flussonic" tvg-id="Setanta Sports 2 UZ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta2ge.png",Setanta Sports 2 [UZ]
+http://cdn.vivamax.pro/SetantaSports2UZ/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="DAZN 1 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/dazn1.png",DAZN 1
+http://cdn.vivamax.pro/dazn1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="DAZN 2 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/dazn2.png",DAZN 2
+http://cdn.vivamax.pro/dazn2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/dazn-fast.png",Dazn Fast [DE]
+http://cdn.vivamax.pro/DaznFast/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/dazn-rise.png",Dazn Rise [DE]
+http://cdn.vivamax.pro/DaznRise/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="УПЛ ТВ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/upltv.png",UPL.TV [UA]
+http://cdn.vivamax.pro/UPL_TV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/upltv.png",UPL.TV 1 [UA]
+http://cdn.vivamax.pro/UPL1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/upltv.png",UPL.TV 2 [UA]
+http://cdn.vivamax.pro/UPL2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/upltv.png",UPL.TV 3 [UA]
+http://cdn.vivamax.pro/UPL3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Megogo Спорт" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/megogosport.png",Megogo Спорт [UA]
+http://cdn.vivamax.pro/MegSport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт 1 Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport1ua.png",Sport 1 [UA]
+http://cdn.vivamax.pro/Sport1UA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт 2 Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport2ua.png",Sport 2 [UA]
+http://cdn.vivamax.pro/Sport2UA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт 3 Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport3ua.png",Sport 3 [UA]
+http://cdn.vivamax.pro/Sport3UA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт 4 Украина" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport4.png",Sport 4 [UA]
+http://cdn.vivamax.pro/sport4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Спорт 5" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport5.png",Sport 5 [UA]
+http://cdn.vivamax.pro/Sport5/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Xsport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/xsport.png",Xsport [UA]
+http://cdn.vivamax.pro/XSPORT/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Xsport+" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/xsportplus.png",Xsport+ [UA]
+http://cdn.vivamax.pro/XSPORTplus/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Казахстан" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantakz.png",Setanta Qazaqstan [KZ]
+http://cdn.vivamax.pro/setantaqazaqstan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sport+ [KZ]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasportspluskz.png",Setanta Sport KZ+ [KZ]
+http://cdn.vivamax.pro/setantasportskz/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 1 KZ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta1kz.png",Setanta Sport 1 [KZ]
+http://cdn.vivamax.pro/setantasports1kz/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 2 KZ" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta2kz.png",Setanta Sport 2 [KZ]
+http://cdn.vivamax.pro/setantasports2kz/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Q Arena" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/qarena.png",Q Arena [KZ]
+http://cdn.vivamax.pro/qarena/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Q Football" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/qfootball.png",Q Football [KZ]
+http://cdn.vivamax.pro/qfootball/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Q League" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/qleague.png",Q League [KZ]
+http://cdn.vivamax.pro/qleague/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="KAZsport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/qazsport.png",Qazsport [KZ]
+http://cdn.vivamax.pro/qazsport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sport+ Qazaqstan" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sportpluskz.png",Sport+ [KZ]
+http://cdn.vivamax.pro/sportpluskz/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="4" catchup-type="flussonic" tvg-id="Sport UZ HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/SportUZ.png",Sport [UZ]
+http://cdn.vivamax.pro/SportUZ/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="4" catchup-type="flussonic" tvg-id="Foreign Languages" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/futboltv.png",Futbol TV [UZ]
+http://cdn.vivamax.pro/Futbol/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setantasportsmoldova.png",Setanta Sports [MD]
+http://cdn.vivamax.pro/SetantaSportsMoldova/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 1 Lietuva" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta1lt.png",Setanta Sports 1 [LT]
+http://cdn.vivamax.pro/setanta1lt/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Setanta Sports 2 Lietuva" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/setanta2lt.png",Setanta Sports 2 [LT]
+http://cdn.vivamax.pro/setanta2lt/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TV3 Sport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/go3sport1.png",Go3 Sport 1
+http://cdn.vivamax.pro/go3sport1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TV3 Sport 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/go3sport2.png",Go3 Sport 2
+http://cdn.vivamax.pro/go3sport2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TV3 Sport 3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/go3sport3.png",Go3 Sport 3
+http://cdn.vivamax.pro/go3sport3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Go3 Sport 4" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/go3sport4.png",Go3 Sport 4
+http://cdn.vivamax.pro/go3sport4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TV3 Sport Open" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/go3sportopen.png",Go3 Sport Open
+http://cdn.vivamax.pro/go3sportopen/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="LT: Sport 1 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport1lt.png",Sport 1 [LT]
+http://cdn.vivamax.pro/sport1lt/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sport 1 Baltic" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport1baltic.png",Sport 1 Baltic
+http://cdn.vivamax.pro/sport1baltic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sport 2 Baltic" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sport2baltic.png",Sport 2 Baltic
+http://cdn.vivamax.pro/sport2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="LV: Best4Sport HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/best4sport.png",Best4Sport TV [LV]
+http://cdn.vivamax.pro/best4sport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="LV: Best4Sport 2 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/best4sport2.png",Best4Sport 2 [LV]
+http://cdn.vivamax.pro/best4sport2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 1 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport1.png",Arena Sport 1 [HR]
+http://cdn.vivamax.pro/arena1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 2 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport2.png",Arena Sport 2 [HR]
+http://cdn.vivamax.pro/arena2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 3 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport3.png",Arena Sport 3 [HR]
+http://cdn.vivamax.pro/arena3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 4 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport4.png",Arena Sport 4 [HR]
+http://cdn.vivamax.pro/arena4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 5 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport5.png",Arena Sport 5 [HR]
+http://cdn.vivamax.pro/arena5/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 6 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport6.png",Arena Sport 6 [HR]
+http://cdn.vivamax.pro/arena6/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 7 [HR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arenasport7.png",Arena Sport 7 [HR]
+http://cdn.vivamax.pro/arena7/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Bundesliga HD [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-bundesliga-de.png",Sky Sport Bundesliga [DE]
+http://cdn.vivamax.pro/sksport_bundesliga_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Golf [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-golf-de.png",Sky Sport Golf [DE]
+http://cdn.vivamax.pro/sksport_golf_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Mix [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-mix-de.png",Sky Sport Mix [DE]
+http://cdn.vivamax.pro/sksport_mix_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Premier League [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-pl-de.png",Sky Sport Premier League [DE]
+http://cdn.vivamax.pro/sksport_premier_league_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Tennis [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-tennis.png",Sky Sport Tennis [DE]
+http://cdn.vivamax.pro/sksport_tennis_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport Top Event [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-top-event-de.png",Sky Sport Top Event [DE]
+http://cdn.vivamax.pro/sksport_top_event_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sport F1 [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sport-f1-de.png",Sky Sport F1 [DE]
+http://cdn.vivamax.pro/sksport_f1_de/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports 1 UHD [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-1-uhd-uk.png",Sky Sports 1 UHD [UK]
+http://cdn.vivamax.pro/SkSportBritish1UHD/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports 2 UHD [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-2-uhd-uk.png",Sky Sports 2 UHD [UK]
+http://cdn.vivamax.pro/SkSportBritish2UHD/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports Darts / F1 [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-f1.png",Sky Sports F1 UHD [UK]
+http://cdn.vivamax.pro/SkSportF1BritishUHD/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports Main Event [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-maine.png",Sky Sports Main Event UHD [UK]
+http://cdn.vivamax.pro/SkSportMainEventUHD/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports Racing [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-racing.png",Sky Sports Racing [UK]
+http://cdn.vivamax.pro/SkSport_Racing_British/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Sky Sports Tennis [UK]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/sky-sports-tennis.png",Sky Sports Tennis [UK]
+http://cdn.vivamax.pro/SkSport_Tennis_British/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Canal+ 4K" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/canal-pl-4k.png",Canal+ 4K [PL]
+http://cdn.vivamax.pro/CanalPlusPoland4K/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Diema Sport" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/diema-sport-1.png",Diema Sport 1
+http://cdn.vivamax.pro/DiemaSport1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Diema Sport 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/diema-sport-2.png",Diema Sport 2
+http://cdn.vivamax.pro/DiemaSport2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Diema Sport 2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/diema-sport-2-4k.png",Diema Sport 2 4K
+http://cdn.vivamax.pro/DiemaSport2_4K/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Diema Sport 3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/diema-sport-3.png",Diema Sport 3
+http://cdn.vivamax.pro/DiemaSport3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Diema Sport 3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/diema-sport-3-4k.png",Diema Sport 3 4K
+http://cdn.vivamax.pro/DiemaSport3_4K/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Eleven Sports 1 [PL]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/eleven-sports-1.png",Eleven Sports 1 4K [PL]
+http://cdn.vivamax.pro/ElevenSport1Poland_4K/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Auto Moto Sport Channel [DE]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/auto-motor-sport-de.png",Auto Motor Sport Channel UHD [DE]
+http://cdn.vivamax.pro/AutoMotorSport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Eurosport 4K" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/eurosport-4k.png",Eurosport 4K
+http://cdn.vivamax.pro/Eurosport4K/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="5Sport 4K" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/yes-sport-5-4k.png",5Sport 4K
+http://cdn.vivamax.pro/5sport_4k/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="beIN Sports 1 [FR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bein-sport-1-fr.png",beIN Sports 1 [FR]
+http://cdn.vivamax.pro/BeinSports1France/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="beIN Sports 2 [FR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bein-sport-2-fr.png",beIN Sports 2 [FR]
+http://cdn.vivamax.pro/BeinSports2France/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="beIN Sports 3 [FR]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bein-sport-3-fr.png",beIN Sports 3 [FR]
+http://cdn.vivamax.pro/BeinSports3France/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Premier League TV HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/premiere-league-tv.png",Premier League TV
+http://cdn.vivamax.pro/premierleaguetv/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="BT Sport 1 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bt-sport1.png",TNT Sports 1
+http://cdn.vivamax.pro/TNTSports1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="BT Sport 2 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bt-sport2.png",TNT Sports 2
+http://cdn.vivamax.pro/TNTSports2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="BT Sport 3 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bt-sport3.png",TNT Sports 3
+http://cdn.vivamax.pro/TNTSports3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="BT Sport 4 HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/bt-sport4.png",TNT Sports 4
+http://cdn.vivamax.pro/TNTSports4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="UK: TNT Sports Ultimate" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tntultimateuhd.png",TNT Sports Ultimate UHD
+http://cdn.vivamax.pro/TNTSportsUltimateUHD/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Premium 1 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-premium-1.png",Arena Premium 1 [RS]
+http://cdn.vivamax.pro/ArenaPremium1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Premium 2 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-premium-2.png",Arena Premium 2 [RS]
+http://cdn.vivamax.pro/ArenaPremium2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Premium 3 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-premium-3.png",Arena Premium 3 [RS]
+http://cdn.vivamax.pro/ArenaPremium3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Premium 4 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-premium-4-rs.png",Arena Premium 4 [RS]
+http://cdn.vivamax.pro/ArenaPremium4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Premium 5 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-premium-5-rs.png",Arena Premium 5 [RS]
+http://cdn.vivamax.pro/ArenaPremium5/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 1 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-1.png",Arena Sport 1 [RS]
+http://cdn.vivamax.pro/ArenaSport1Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 1x2 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-1x2-rs.png",Arena Sport 1x2 [RS]
+http://cdn.vivamax.pro/ArenaSport1x2Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 2 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-2.png",Arena Sport 2 [RS]
+http://cdn.vivamax.pro/ArenaSport2Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 3 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-3.png",Arena Sport 3 [RS]
+http://cdn.vivamax.pro/ArenaSport3Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 4 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-4.png",Arena Sport 4 [RS]
+http://cdn.vivamax.pro/ArenaSport4Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 5 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-5.png",Arena Sport 5 [RS]
+http://cdn.vivamax.pro/ArenaSport5Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 6 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-6.png",Arena Sport 6 [RS]
+http://cdn.vivamax.pro/ArenaSport6Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 7 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-7.png",Arena Sport 7 [RS]
+http://cdn.vivamax.pro/ArenaSport7Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 8 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-8.png",Arena Sport 8 [RS]
+http://cdn.vivamax.pro/ArenaSport8Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 9 HD [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-9-rs.png",Arena Sport 9 [RS]
+http://cdn.vivamax.pro/ArenaSport9Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Sport 10 [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-sport-10-rs.png",Arena Sport 10 [RS]
+http://cdn.vivamax.pro/ArenaSport10Serbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Adrenalin [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-adrenalin-rs.png",Arena Adrenalin [RS]
+http://cdn.vivamax.pro/ArenaSportAdrenalinSerbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Tenis [RS]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-tenis-rs.png",Arena Tenis [RS]
+http://cdn.vivamax.pro/ArenaTenisSerbia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arena Fight HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/arena-fight.png",Arena Fight
+http://cdn.vivamax.pro/ArenaFight/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Prime Fight" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/prime-fight.png",Prime Fight
+http://cdn.vivamax.pro/PrimeFight/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TSN1" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tsn1-ca.png",TSN 1
+http://cdn.vivamax.pro/tsnsports1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TSN2" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tsn2-ca.png",TSN 2
+http://cdn.vivamax.pro/tsnsports2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TSN3" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tsn3-ca.png",TSN 3
+http://cdn.vivamax.pro/tsnsports3/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TSN4" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tsn4-ca.png",TSN 4
+http://cdn.vivamax.pro/tsnsports4/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TSN5" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/tsn5-ca.png",TSN 5
+http://cdn.vivamax.pro/tsnsports5/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="ESPN [US]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/espn-us.png",ESPN [US]
+http://cdn.vivamax.pro/ESPN1USA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="ESPN2 [US]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/espn2-us.png",ESPN2 [US]
+http://cdn.vivamax.pro/ESPN2USA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="NFL Network" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/nfl-network.png",NFL Network
+http://cdn.vivamax.pro/NFLNetwork/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="MLB Network [US]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/mlb-network-us.png",MLB Network
+http://cdn.vivamax.pro/MLBNetwork/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="US: WWE Network HD" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/wwe-network.png",WWE Network
+http://cdn.vivamax.pro/WWENetwork/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="NHL Network [US]" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/nhl-network-us.png",NHL Network
+http://cdn.vivamax.pro/NHLNetwork/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="NBA TV" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/nba-tv.png",NBA TV
+http://cdn.vivamax.pro/nbatvusa/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Суспільне Спорт" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/suspilnesport.png",Суспільне Спорт [UA]
+http://cdn.vivamax.pro/SuspinlneSport/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="4" catchup-type="flussonic" tvg-id="Clarity4K Единоборства" group-title="Спорт" tvg-logo="http://logo.vivamax.pro/logo/clarity4k-edinoborstva.png",Clarity4K Единоборства
+http://cdn.vivamax.pro/Clarity4k_Edinoborstva/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Armenia TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armeniatv.png",Armenia TV
+http://cdn.vivamax.pro/ArmeniaTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Shant TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shant.png",Shant TV
+http://cdn.vivamax.pro/ShantTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Arajin Aliq" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajin.png",Arajin Aliq
+http://cdn.vivamax.pro/ArajinAliq/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="ATV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/atv.png",ATV
+http://cdn.vivamax.pro/ATV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Nor Hayastan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/newarmeniatv.png",Nor Hayastan
+http://cdn.vivamax.pro/NorHayastan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="21TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/21tv.png",21TV
+http://cdn.vivamax.pro/21TV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Lurer" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/lurer.png",Arajini Lratvakan
+http://cdn.vivamax.pro/Lurer/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="H2" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/h2.png",H2
+http://cdn.vivamax.pro/H2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Kentron TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kentron.png",Kentron
+http://cdn.vivamax.pro/Kentron/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shoghakat" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shem.png",Shem
+http://cdn.vivamax.pro/Shoghakat/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="FreeNews" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/FreeNews.png",FreeNews
+http://cdn.vivamax.pro/FreeNews/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Boon TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/boon.png",Boon TV
+http://cdn.vivamax.pro/Boon/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="ABN" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/abn.png",ABN
+http://cdn.vivamax.pro/ABN/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Nur TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/nur.png",Nur TV
+http://cdn.vivamax.pro/NurTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="5TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/5TV.png",5TV
+http://cdn.vivamax.pro/5TV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Erkir Media" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/yerkirmedia.png",Yerkir Media
+http://cdn.vivamax.pro/YerkirMedia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Azatutyun TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/azatutyun.png",Azatutyun TV
+http://cdn.vivamax.pro/AzatutyunTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Alpha News" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/alphanews.png",Alpha News
+http://cdn.vivamax.pro/Alpha_News/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Armenia Premium" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/premium1.png",Armenia Premium
+http://cdn.vivamax.pro/ArmeniaPremium/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="HayKino" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/haykino.png",HayKino
+http://cdn.vivamax.pro/HayKino/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Jan TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/jantv.png",JanTV
+http://cdn.vivamax.pro/JanTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Comedy" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/comedyam.png",Comedy
+http://cdn.vivamax.pro/Comedy/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="TunTunik" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tuntunik.png",TunTunik
+http://cdn.vivamax.pro/TunTunik/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Cineman" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/cineman.png",Cineman
+http://cdn.vivamax.pro/Cineman/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Шант Premium HD" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantpremium.png",Shant Premium
+http://cdn.vivamax.pro/ShantPremium/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shant Serial" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantserial.png",Shant Serial
+http://cdn.vivamax.pro/ShantSerial/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Shant Music" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantmusic.png",Shant Music
+http://cdn.vivamax.pro/ShantMusic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shant Kids" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantkids.png",Shant Kids
+http://cdn.vivamax.pro/ShantKids/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shant Comedy" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantcomedy.png",Shant Comedy
+http://cdn.vivamax.pro/ShantComedy/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shant Film" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantfilm.png",Shant Film
+http://cdn.vivamax.pro/ShantFilm/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Shant Gyumri" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantgyumri.png",Shant Gyumri
+http://cdn.vivamax.pro/ShantGyumri/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Lifehack" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/lifehack.png",Lifehack
+http://cdn.vivamax.pro/Lifehack/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Kinoman" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kinomanam.png",Kinoman
+http://cdn.vivamax.pro/Kinoman/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Fitness" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fitness.png",Fitness
+http://cdn.vivamax.pro/Fitness/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Muzzone" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/muzzone.png",Muzzone
+http://cdn.vivamax.pro/Muzzone/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Khaghaliq TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/khaghaliq.png",Khaghaliq
+http://cdn.vivamax.pro/Xaghaliq/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Bazmots" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/bazmots.png",Bazmots
+http://cdn.vivamax.pro/Bazmoc/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hay TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/haytv.png",Hay TV
+http://cdn.vivamax.pro/HayTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Tava TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tava.png",Tava
+http://cdn.vivamax.pro/Tava/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports.png",FastSports
+http://cdn.vivamax.pro/FastSports/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports 1" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports1.png",FastSports 1
+http://cdn.vivamax.pro/FastSports1/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Fast Sports 2" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports2.png",FastSports 2
+http://cdn.vivamax.pro/FastSports2/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="5TV Plus" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/5tvplus.png",5TV Plus
+http://cdn.vivamax.pro/5TVPlus/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Euromedia24" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/euromedia24tv.png",Euromedia24
+http://cdn.vivamax.pro/Euromedia24/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="1in TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/1intv.png",1in TV
+http://cdn.vivamax.pro/1inTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="SONGTV Armenia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/songtv.png",SongTV Armenia
+http://cdn.vivamax.pro/SongTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fresh.png",Fresh TV
+http://cdn.vivamax.pro/FreshTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Delta TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltatv.png",Delta TV
+http://cdn.vivamax.pro/DeltaTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltatravel.png",Delta Travel
+http://cdn.vivamax.pro/DeltaTravel/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltamusic.png",Delta Music
+http://cdn.vivamax.pro/DeltaMusic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Fortuna TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fortuna.png",Fortuna TV
+http://cdn.vivamax.pro/FortunaTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Geghama TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/geghama.png",Geghama TV
+http://cdn.vivamax.pro/Geghama/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Ararat TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/ararat.png",Ararat TV
+http://cdn.vivamax.pro/Ararat/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Kotayq TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kotayq.png",Kotayq TV
+http://cdn.vivamax.pro/Kotayq/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Lori TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/loritv.png",Lori TV
+http://cdn.vivamax.pro/Lori/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Syunik TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/syunik.png",Syunik TV
+http://cdn.vivamax.pro/Syunik/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Tavush TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tavush.png",Tavush TV
+http://cdn.vivamax.pro/Tavush/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Tsayg" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tsayg.png",Tsayg
+http://cdn.vivamax.pro/Tsayg/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="ARMA TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arma.png",Arma TV
+http://cdn.vivamax.pro/ARMA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/velari.png",Velari
+http://cdn.vivamax.pro/Velari/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armmusic.png",ArmMusic
+http://cdn.vivamax.pro/ArmMusic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hybrid EDU" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridedu.png",Hybrid Edu
+http://cdn.vivamax.pro/HybridEdu/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Hybrid Film" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridfilm.png",Hybrid Film
+http://cdn.vivamax.pro/HybridFilm/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hybrid Rest" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridrest.png",Hybrid Rest
+http://cdn.vivamax.pro/HybridRest/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Armtoon.tv" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armtoon_tv.png",Armtoon
+http://cdn.vivamax.pro/Armtoon/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="TBN Armenia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tbnarmenia.png",TBN Armenia
+http://cdn.vivamax.pro/TBNArmenia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/panarmeniantv.png",PanArmenian TV
+http://cdn.vivamax.pro/PanArmenian/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/artn.png",ARTN
+http://cdn.vivamax.pro/ARTN/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armount.png",Armount
+http://cdn.vivamax.pro/Armount/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="Arajin Aliq USA" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajinaliqusa.png",Arajin Aliq USA
+http://cdn.vivamax.pro/ArajinAliq_USA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/usarmeniatv.png",USArmenia TV
+http://cdn.vivamax.pro/USArmeniaTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/aabc.png",AABC
+http://cdn.vivamax.pro/AABC/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/amga.png",AMGA
+http://cdn.vivamax.pro/AMGA/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/horizon.png",Horizon
+http://cdn.vivamax.pro/Horizon/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Noyan Tapan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/noyantapan.png",Noyan Tapan
+http://cdn.vivamax.pro/NoyanTapan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Arajin Aliq Satellite" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajinimijazgayin.png",Arajini Mijazgayin Aliq
+http://cdn.vivamax.pro/ArajiniMijazgayinAliq/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armeniahd.png",Armenia TV Satellite
+http://cdn.vivamax.pro/ArmeniaTVSat/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnhaydubl" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhaydubl.png",EVN+ՀայԴուբլ
+http://cdn.vivamax.pro/EVNHayDubl/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="1" catchup-type="flussonic" tvg-id="evndubljam" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evndubljam.png",EVN+ԴուբլԺամ
+http://cdn.vivamax.pro/EVNDubljam/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="1" catchup-type="flussonic" tvg-id="evndublart" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evndublart.png",EVN+ԴուբլԱրտ
+http://cdn.vivamax.pro/EVNDublArt/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="1" catchup-type="flussonic" tvg-id="evnpuchik" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnpuchik.png",EVN+Փուչիկ
+http://cdn.vivamax.pro/EVNPuchik/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnciacan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnciacan.png",EVN+Ծիածան
+http://cdn.vivamax.pro/EVNCiacan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evntaqhetqer" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evntaqhetqer.png",EVN+ՏաքՀետքեր
+http://cdn.vivamax.pro/EVNTaqhetqer/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnjapaven" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnjapaven.png",EVN+Ժապավեն
+http://cdn.vivamax.pro/EVNJapaven/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evncicax" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evncicax.png",EVN+Ծիծաղ
+http://cdn.vivamax.pro/EVNCicax/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnhrazen" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhrazen.png",EVN+Հրազեն
+http://cdn.vivamax.pro/EVNHrazen/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnmenamart" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnmenamart.png",EVN+Մենամարտ
+http://cdn.vivamax.pro/EVNMenamart/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnhetaxuyz" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhetaxuyz.png",EVN+Հետախույզ
+http://cdn.vivamax.pro/EVNHetaxuyz/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evntitan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evntitan.png",EVN+Տիտան
+http://cdn.vivamax.pro/EVNTitan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnheros" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnheros.png",EVN+Հերոս
+http://cdn.vivamax.pro/EVNHeros/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnorakul" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnorakul.png",EVN+Օրակուլ
+http://cdn.vivamax.pro/EVNOrakul/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnselestia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnselestia.png",EVN+Սելեստիա
+http://cdn.vivamax.pro/EVNSelestia/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnhrashagorc" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhrashagorc.png",EVN+Հրաշագործ
+http://cdn.vivamax.pro/EVNHrashagorc/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-year="3" catchup-type="flussonic" tvg-id="evnneo" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnneo.png",EVN+Նեո 4K
+http://cdn.vivamax.pro/EVNNeo/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/bluestv.png",Blues TV
+http://cdn.vivamax.pro/BluesTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayastantvhumor.png",HayastanTV Humor
+http://cdn.vivamax.pro/hayastantvhumor/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayastantvmusic.png",HayastanTV Music
+http://cdn.vivamax.pro/hayastantvmusic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/migtv.png",Mig TV
+http://cdn.vivamax.pro/MigTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayerjanmusic.png",HAYERJAN Music
+http://cdn.vivamax.pro/HayerJanMusic/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/auroratv.png",Aurora TV
+http://cdn.vivamax.pro/AuroraTV/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/radio_van.png",Radio Van
+http://cdn.vivamax.pro/RadioVan/index.m3u8?token=45ac1d95a3cb
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kissfm.png",KissFM Armenia
+http://cdn.vivamax.pro/KissFM/index.m3u8?token=45ac1d95a3cb
